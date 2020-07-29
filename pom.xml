@@ -93,6 +93,7 @@
                             <args>
                                 <arg>-dependencyfile</arg>
                                 <arg>${project.build.directory}/.scala_dependencies</arg>
+                                <arg>-language:postfixOps</arg>
                             </args>
                         </configuration>
                     </execution>
