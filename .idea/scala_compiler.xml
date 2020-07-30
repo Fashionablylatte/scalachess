@@ -5,5 +5,12 @@
     <parameters>
       <parameter value="-language:postfixOps" />
     </parameters>
+    <profile name="Maven 1" modules="scalachess_2.13">
+      <option name="postfixOps" value="true" />
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Joe\Documents\CS_Personal\scalachess\target/.scala_dependencies" />
+      </parameters>
+    </profile>
   </component>
 </project>

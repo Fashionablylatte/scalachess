@@ -1,4 +1,4 @@
-import ornicar.scalalib
+import ornicar.
 
 import scala.util.Try
 
